@@ -171,3 +171,100 @@ ul {
     font-size: 16px;
     color: #707070;
 }
+
+.paragraph {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 1220px;
+    margin: 50px auto;
+}
+
+.content {
+    text-align: justify;
+}
+
+.title-content {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-weight: 900;
+    font-size: 50px;
+}
+
+.title-para {
+    color: #707070;
+}
+
+.button-2 {
+
+    font-weight: 400;
+    font-size: 20px;
+    background: #FF5959;
+    border-radius: 5px;
+    color: #FFFFFF;
+    padding: 5px 10px;
+    width: 220px;
+    height: 50px;
+    margin-top: 20px;
+}
+
+.one {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    font-weight: 700;
+    font-size: 50px;
+}
+
+.two {
+    color: #707070;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFF4D6;
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 80px 40px;
+
+}
+
+.sub-bar {
+    padding: 5px 15px;
+    background-color: #D9D9D9;
+    border: 0;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.sub-button {
+    padding: 5px 15px;
+    background-color: #FF5959;
+    color: #fff;
+    font-weight: 300;
+    border: 0;
+    font-size: 20px;
+}
+
+.footer {
+    width: 100%;
+    background-color: #0B0D17;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.footer h1 {
+    color: #FF5959;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.footer h4 {
+    color: #D9DBE1;
+    margin-top: 50px;
+    font-weight: 400;
+}
